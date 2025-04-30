@@ -1,7 +1,6 @@
 ## Hi, I'm Erik 👋
 
 [![available](https://img.shields.io/badge/available-brightgreen.svg)](mailto:kueckelheim.erik@gmail.com)
-[![working on](https://img.shields.io/badge/Working_On-Prompt_Middleware-blue)](https://github.com/kueckelheim/prompt-middleware)
 
 &nbsp;
 &nbsp;
